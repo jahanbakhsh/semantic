@@ -1,0 +1,4 @@
+hazm
+pandas
+xlrd
+openpyxl
